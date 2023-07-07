@@ -211,7 +211,7 @@
 									><Fa icon={faRotateRight} /></button
 								>
 								<button type="button" class="btn variant-filled" on:click={handleCreateTemplate}
-									>Create template</button
+									>Create table</button
 								>
 							</div>
 							<div class="flex gap-1 justify-between">
