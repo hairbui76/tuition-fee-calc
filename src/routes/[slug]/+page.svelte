@@ -125,7 +125,7 @@
 			},
 			{
 				s: { r: totalDays + 3, c: 0 },
-				e: { r: totalDays + 3, c: 2 }
+				e: { r: totalDays + 3, c: 4 }
 			}
 		];
 		let wb = utils.book_new();
